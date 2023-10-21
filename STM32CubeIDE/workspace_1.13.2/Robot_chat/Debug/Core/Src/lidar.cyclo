@@ -1,0 +1,5 @@
+../Core/Src/lidar.c:10:5:lidar_start_scanning	1
+../Core/Src/lidar.c:17:5:lidar_stop_scanning	1
+../Core/Src/lidar.c:22:5:lidar_get_infos	1
+../Core/Src/lidar.c:29:5:lidar_get_status	1
+../Core/Src/lidar.c:34:5:lidar_restart	1
